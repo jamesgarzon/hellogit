@@ -1,3 +1,3 @@
-# hellogit (v0.1)
+# HELLO GIT (v0.1.1)
 
 James Garzón
